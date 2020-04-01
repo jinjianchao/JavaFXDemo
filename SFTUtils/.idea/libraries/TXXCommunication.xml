@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TXXCommunication">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TXXCommunication/dist/TXXCommunication.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

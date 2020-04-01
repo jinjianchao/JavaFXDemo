@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaFXAppDemo.iml" filepath="$PROJECT_DIR$/JavaFXAppDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LEDController/LEDController.iml" filepath="$PROJECT_DIR$/../LEDController/LEDController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SFTUtils/SFTUtils.iml" filepath="$PROJECT_DIR$/../SFTUtils/SFTUtils.iml" />
+    </modules>
+  </component>
+</project>
